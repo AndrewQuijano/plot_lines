@@ -1,3 +1,8 @@
+# Ignore CSV files
+*.csv
+*.png
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
